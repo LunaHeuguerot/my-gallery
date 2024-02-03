@@ -26,7 +26,7 @@ btn.addEventListener('click', ()=> {
 })
 
 btn2.addEventListener('click', ()=>{
-    location.href="../index.html"
+    location.href="/my-gallery"
 })
 
 // document.querySelector('p').className = "pepe ";
