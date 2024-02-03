@@ -26,12 +26,8 @@ btn.addEventListener('click', ()=> {
 })
 
 btn2.addEventListener('click', ()=>{
-    location.href="/my-gallery"
+    location.href="../index.html"
 })
 
-// document.querySelector('p').className = "pepe ";
-// document.querySelector('p').className += "juan";
-// document.querySelector('p').classList.add('pedro');
-// document.querySelector('p').classList.remove('pepe');
-// document.querySelector('p').classList.toggle('pepe'); //si está la clase lo pone sino la saca
+
 
